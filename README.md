@@ -2,15 +2,13 @@
 
 ##  Carrera: Ingeniería en Tecnologias de la Información y Comunicaciones
 
-## Titulo de trabajo: Auditoría
+## Titulo de trabajo:S03E01 Generators
 
-## Asignatura: Auditoría de Tecnología de Infomación y Comunicación
+## Asignatura: Pila Completa l
 
-## Alumna:Gutierrez Chavez Danna Karen
+## Alumna: Gutierrez Chavez Danna Karen
 
-## Profesor: Jose Alejandro Acosta Gonzalez
+## Profesor: Ivan Rivalcoba Rivas
 
-## Ciudad de México a 31 de marzo de 2023
+## Ciudad de México a 16 de abril de 2023
 
-
-# generators
